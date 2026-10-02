@@ -1,0 +1,162 @@
+{
+  "Glucose": {
+    "Negative": {
+      "value": "0",
+      "unit": "mg/dL"
+    },
+    "1/10 (tr.)": {
+      "value": "100",
+      "unit": "mg/dL"
+    },
+    "1/4 (+)": {
+      "value": "250",
+      "unit": "mg/dL"
+    },
+    "1/2 (++)": {
+      "value": "500",
+      "unit": "mg/dL"
+    },
+    "1 (+++)": {
+      "value": "1000",
+      "unit": "mg/dL"
+    },
+    "2 or more (++++)": {
+      "value": "2000 or more",
+      "unit": "mg/dL"
+    }
+  },
+  "Protein": {
+    "Negative": {
+      "value": "0",
+      "unit": "mg/dL"
+    },
+    "Trace": {
+      "value": "Trace",
+      "unit": "mg/dL"
+    },
+    "Small (+)": {
+      "value": "30",
+      "unit": "mg/dL"
+    },
+    "Moderate (++)": {
+      "value": "100",
+      "unit": "mg/dL"
+    },
+    "Large (+++)": {
+      "value": "300",
+      "unit": "mg/dL"
+    },
+    "Large (++++)": {
+      "value": "2000 or more",
+      "unit": "mg/dL"
+    }
+  },
+  "pH": {
+    "5.0": {
+      "value": "5.0",
+      "unit": "pH"
+    },
+    "6.0": {
+      "value": "6.0",
+      "unit": "pH"
+    },
+    "6.5": {
+      "value": "6.5",
+      "unit": "pH"
+    },
+    "7.0": {
+      "value": "7.0",
+      "unit": "pH"
+    },
+    "7.5": {
+      "value": "7.5",
+      "unit": "pH"
+    },
+    "8.0": {
+      "value": "8.0",
+      "unit": "pH"
+    },
+    "8.5": {
+      "value": "8.5",
+      "unit": "pH"
+    }
+  },
+  "Ketone": {
+    "Negative": {
+      "value": "0",
+      "unit": "mg/dL"
+    },
+    "Trace": {
+      "value": "5",
+      "unit": "mg/dL"
+    },
+    "Small (+)": {
+      "value": "15",
+      "unit": "mg/dL"
+    },
+    "Moderate (++)": {
+      "value": "40",
+      "unit": "mg/dL"
+    },
+    "Large (+++)": {
+      "value": "80",
+      "unit": "mg/dL"
+    },
+    "Large (++++)": {
+      "value": "160",
+      "unit": "mg/dL"
+    }
+  },
+  "Blood": {
+    "Negative": {
+      "value": "Negative",
+      "unit": "cells/uL"
+    },
+    "Non-Hemolyzed Trace": {
+      "value": "Trace (Non-Hemolyzed)",
+      "unit": "cells/uL"
+    },
+    "Non-Hemolyzed Moderate": {
+      "value": "Moderate (Non-Hemolyzed)",
+      "unit": "cells/uL"
+    },
+    "Hemolyzed Trace": {
+      "value": "Trace (Hemolyzed)",
+      "unit": "cells/uL"
+    },
+    "Small (+)": {
+      "value": "Small",
+      "unit": "cells/uL"
+    },
+    "Moderate (++)": {
+      "value": "Moderate",
+      "unit": "cells/uL"
+    },
+    "Large (+++)": {
+      "value": "Large",
+      "unit": "cells/uL"
+    }
+  },
+  "Leukocytes": {
+    "Negative": {
+      "value": "Negative",
+      "unit": "Leu/uL"
+    },
+    "Trace": {
+      "value": "Trace",
+      "unit": "Leu/uL"
+    },
+    "Small (+)": {
+      "value": "15",
+      "unit": "Leu/uL"
+    },
+    "Moderate (++)": {
+      "value": "70",
+      "unit": "Leu/uL"
+    },
+    "Large (+++)": {
+      "value": "125",
+      "unit": "Leu/uL"
+    }
+  }
+}
